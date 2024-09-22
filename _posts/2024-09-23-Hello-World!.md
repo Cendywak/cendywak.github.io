@@ -4,7 +4,7 @@ layout:  post
 
 title:  "Hello World!"
 
-subtitle:  "�ҵĵ�һƪ����"
+subtitle:  "ÎÒµÄµÚÒ»Æª²©¿Í"
 
 date:  2024-09-23 00:39:32
 
@@ -16,3 +16,5 @@ tags:
   \- Life
 
 ---
+
+Hello, 这是我的第一篇博客
