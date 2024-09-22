@@ -4,7 +4,7 @@ SEOTitle: Kand的博客 | Kand Blog
 header-img: img/home-bg.jpg
 email: Kand@gmail.com
 description: "这里是 @Kand 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "Kand, Kand, Kand, 鬼栈, Kand, @Kand, Kand的博客, Kand Blog, 博客, 个人网站, 互联网, Web, JavaScript"
+keyword: "Kand, @Kand, Kand的博客, Kand Blog, 博客, 个人网站, 互联网, Web, JavaScript"
 url: "https://blog.kandawei.xyz" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -70,12 +70,12 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: blog.kandawei.xyz
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Kand.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "要做一个有趣的灵魂 <br> Electric Team"
+sidebar-avatar: img/home-bg.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,12 +91,12 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    # { title: "乱序（Midare）", href: "http://mida.re/" },
+    # { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+    # { title: "Kun Qian", href: "http://kunq.me" },
+    # { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+    # { title: "SmdCn", href: "http://blog.smdcn.net" },
+    # { title: "JiyinYiyong", href: "http://tiye.me/" },
+    # { title: "DHong Say", href: "http://dhong.co" },
+    # { title: "尹峰以为", href: "http://ingf.github.io/" },
   ]
