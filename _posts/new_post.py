@@ -45,5 +45,5 @@ ymlFormat = '---\n\nlayout:  post\n\ntitle:  \"' + post_title + '\"' + '\n\nsubt
 
 print(filename)
 
-with open(filename, 'w') as file:
+with open(filename, 'w', encoding= 'utf-8') as file:
     file.write(ymlFormat)
